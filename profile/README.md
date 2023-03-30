@@ -6,7 +6,7 @@ The school curriculum includes **Digital Technologies** which is studied by all 
 
 ## Digital Technologies
 
-![DT at WaiCol](waicol-dt.gif)
+![DT at WaiCol](/profile/waicol-dt.gif)
 
 The [Digital Technologies](https://dt.waimea.school.nz) department offers courses that cover:
 - Programming (Scratch, Python, Kotlin, etc.)
